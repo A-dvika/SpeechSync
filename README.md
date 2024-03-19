@@ -9,6 +9,7 @@ This lip reading project harnesses the power of the LipNet architecture, a cutti
 ### Architecture Overview 🏗️
 Checkout the Paper -https://arxiv.org/pdf/1611.01599.pdf
 The architecture of LipNet comprises several layers, including convolutional layers for robust feature extraction from video frames, bidirectional recurrent layers to capture temporal dependencies in lip movements, and fully connected layers for precise classification. This intricate design empowers LipNet to proficiently learn the intricate relationship between lip movements and spoken words.
+![image](https://github.com/A-dvika/SpeechSync/assets/115079077/9d0d4780-d5b3-4386-a07b-155f7e3ba5d3)
 
 ### Demo 🚀
 
